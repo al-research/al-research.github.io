@@ -137,7 +137,7 @@ While the topic here is about the New Testament, we include the Old Testament's 
       </tr>
     </tbody>
     </table>
-    Some Bible versions such as NIV and ESV have made this the same, though others are 
+    Some Bible versions such as NIV and ESV have made this the same, though others like NRSV, KJV and NKJV used different numbers.
   </li>
 </ul>
 
@@ -177,7 +177,7 @@ While Sir Fouad Marsi claimed that the New Testament wasn't changed, or that the
       </tr>
     </tbody>
     </table>
-    While the daughter eventually died in all accounts of Christian Gospels, the contradiction is what was said first to Jesus (peace be with him), Matthew says dead already, while Mark and Luke say at the point of death. We know that, dead has no soul while at the point of death still has a soul, and it has a difference.<br/><br/>
+    While the daughter eventually died in all accounts of Christian Gospels, the contradiction is what was said first to Jesus (peace be with him), Matthew says dead already, while Mark and Luke say at the point of death. We know that, dead has no soul while at the point of death still has a soul, and it has a big difference.<br/><br/>
   </li>
   <li><b>When did the disciples notice the withered fig tree?</b>
     <table class="table-striped">
@@ -450,3 +450,7 @@ The following list is arranged according to the events in the life of Jesus (pea
 </ul>
 
 ## Scribal changes
+<ul>
+  <li><b>Isaiah 9:6 refers to Jesus or King Hezekiah?</b>
+  </li>
+</ul>
